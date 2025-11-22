@@ -162,13 +162,16 @@ Then open http://localhost:3000 in your browser!
 
 ## Daily Challenge Tasks
 
-Each day, you'll receive a new task that builds upon your voice agent. The tasks will help you:
-
-- Implement different personas and conversation styles
-- Add custom tools and capabilities
-- Integrate with external APIs
-- Build domain-specific agents (customer service, tutoring, etc.)
-- Optimize performance and user experience
+- Day 1: Get Your Starter Voice Agent Running ✅
+- Day 2: COMING SOON!
+- Day 3: COMING SOON!
+- Day 4: COMING SOON!
+- Day 5: COMING SOON!
+- Day 6: COMING SOON!
+- Day 7: COMING SOON!
+- Day 8: COMING SOON!
+- Day 9: COMING SOON!
+- Day 10: COMING SOON!
 
 **Stay tuned for daily task announcements!**
 
