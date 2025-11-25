@@ -165,7 +165,7 @@ Then open http://localhost:3000 in your browser!
 - Day 1: Get Your Starter Voice Agent Running ✅
 - Day 2: Coffee Shop Barista Agent ✅
 - Day 3: Health & Wellness Voice Companion ✅
-- Day 4: COMING SOON!
+- Day 4: Teach the Tutor: Active Recall Coach ✅
 - Day 5: COMING SOON!
 - Day 6: COMING SOON!
 - Day 7: COMING SOON!
