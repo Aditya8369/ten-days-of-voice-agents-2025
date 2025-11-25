@@ -160,7 +160,7 @@ pnpm dev
 
 Then open http://localhost:3000 in your browser!
 
-## Daily Challenge Tasks
+## Daily Challenge Tasks Checklist
 
 - Day 1: Get Your Starter Voice Agent Running ✅
 - Day 2: Coffee Shop Barista Agent ✅
