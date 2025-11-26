@@ -166,7 +166,7 @@ Then open http://localhost:3000 in your browser!
 - Day 2: Coffee Shop Barista Agent ✅
 - Day 3: Health & Wellness Voice Companion ✅
 - Day 4: Teach the Tutor: Active Recall Coach ✅
-- Day 5: COMING SOON!
+- Day 5: Simple FAQ SDR + Lead Capture Agent ✅
 - Day 6: COMING SOON!
 - Day 7: COMING SOON!
 - Day 8: COMING SOON!
