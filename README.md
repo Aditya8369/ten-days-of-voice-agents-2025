@@ -168,7 +168,7 @@ Then open http://localhost:3000 in your browser!
 - Day 4: Teach the Tutor: Active Recall Coach ✅
 - Day 5: Simple FAQ SDR + Lead Capture Agent ✅
 - Day 6: Fraud Alert Voice Agent ✅
-- Day 7: COMING SOON!
+- Day 7: Food and Grocery Ordering Voice Agent ✅ 
 - Day 8: COMING SOON!
 - Day 9: COMING SOON!
 - Day 10: COMING SOON!
